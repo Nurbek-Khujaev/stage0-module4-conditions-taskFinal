@@ -20,10 +20,10 @@ public class DaysInMonth {
                     System.out.println(30);
                     break;
                 case (2):
-                    System.out.println(28);
+                    System.out.println(29);
                     break;
                 default:
-                    System.out.println("wrong number!");
+                    System.out.println("invalid date");
                     break;
             }
         } else {
@@ -44,7 +44,7 @@ public class DaysInMonth {
                     System.out.println(30);
                     break;
                 case (2):
-                    System.out.println(29);
+                    System.out.println(28);
                     break;
                 default:
                     System.out.println("invalid date");
